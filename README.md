@@ -19,8 +19,8 @@ Users should be able to:
 
 ### 🔗 Links
 
-- Solution URL - Github: [Add solution URL here](https://github.com/alexguemar/frontedmentor-3-column-preview)
-- Live Site URL - Vercel: [Add live site URL here](https://frontedmentor-3-column-preview.vercel.app/)
+- Solution URL - Github: [Add solution URL here](https://github.com/alexguemar/frontendmentor-profile-card)
+- Live Site URL - Vercel: [Add live site URL here](https://frontendmentor-profile-card-beige.vercel.app/)
 
 ## 🚀 My process
 
@@ -54,7 +54,7 @@ This achievement is a reflection of collective effort and shared inspiration!
 
 ## 🤗 Do you have feedback for my project?
 
-I would love to receive feedback! I'm always looking to improve my skills. So, if there's anything you'd like to mention, please comment on the [Challenge at Frontendmentor](https://www.frontendmentor.io/solutions/3column-preview-a0YkxdbE7Y).
+I would love to receive feedback! I'm always looking to improve my skills. So, if there's anything you'd like to mention, please comment on the [Challenge at Frontendmentor](https://www.frontendmentor.io/solutions/profile-card-A6y3jgztk3).
 
 ---
 
