@@ -3,13 +3,13 @@
   --c-dark-blue: hsl(229, 23%, 23%);
   --c-dark-grayish-blue: hsl(227, 10%, 46%);
   --c-dark-gray: hsl(0, 0%, 59%);
+  --c-white: hsl(0, 0%, 100%);
 }
 
 * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  /* outline: 1px solid blue; */
 }
 
 body {
@@ -21,11 +21,10 @@ body {
   font-family: "Kumbh Sans", sans-serif;
   background-image: url(../images/bg-pattern-top.svg),
     url(../images/bg-pattern-bottom.svg);
-  background-position: right 41vw bottom 50vh, left 40vw top 43vh;
+  background-size: 621px, 621px;
+  background-position: right 44.7vw bottom 60vh, left 45vw top 54.7vh;
   background-repeat: no-repeat, no-repeat;
   background-color: var(--c-dark-cyan);
-
-  /* background-position: right 52vw bottom 35vh, left 48vw top 52vh; */
 }
 
 img {
@@ -39,7 +38,7 @@ img {
   border-radius: 1rem;
   overflow: hidden;
   text-align: center;
-  background-color: white;
+  background-color: var(--c-white);
 }
 
 .card-img {
@@ -52,7 +51,7 @@ img {
 
 .card-avatar {
   position: absolute;
-  background-color: white;
+  background-color: var(--c-white);
   border-radius: 50%;
   width: 107px;
   height: 107px;
@@ -127,4 +126,12 @@ img {
 }
 .attribution a:hover {
   text-decoration: underline;
+}
+
+@media screen and (min-width: 750px) {
+  body {
+    background-size: 991px, 991px;
+    background-position: right 50.75vw bottom 35vh, left 48vw top 50.75vh;
+    background-repeat: no-repeat, no-repeat;
+  }
 }
